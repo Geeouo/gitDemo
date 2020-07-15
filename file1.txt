@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 edit @ origin
+=======
+edit @ another
+>>>>>>> 1e43604119aaf6097507aa2c418912ab57c83a3c
